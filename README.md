@@ -12,7 +12,7 @@ This Python tool helps detect **Deauthentication (Deauth) Attacks** on a Wi-Fi n
 ## 🛠 Requirements
 - Python 3
 - `scapy` library (for packet sniffing)
-- A Wi-Fi adapter that supports **monitor mode**
+- A Wi-Fi adapter that mainly supports **monitor mode**
 
 ## 🔧 Installation
 1. Clone this repository:
